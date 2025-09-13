@@ -1,4 +1,4 @@
-# pricing-panel
+# Pricing Panel
 
 ![Screenshot of app on desktop](images/screenshot-desktop.png)
 
